@@ -73,7 +73,7 @@ We’ve built a smart AI-powered platform that generates complete course structu
 *This screenshot demonstrates the login page where users can authenticate to access the application.*
 
 #### **Course Generator Page**
-![Course Generator Page](https://via.placeholder.com/600x300)  
+![Course Generator Page](./Course_Generator_page.png)  
 *This screenshot displays the course generator interface where users input details to generate personalized courses.*
 
 ---Additional Demos
