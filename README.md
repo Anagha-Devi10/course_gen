@@ -69,7 +69,7 @@ We’ve built a smart AI-powered platform that generates complete course structu
 *This screenshot shows the main interface where users can navigate the platform.*
 
 #### **Login Page**
-![Login Page](https://via.placeholder.com/600x300)  
+![Login Page](./Login.png)  
 *This screenshot demonstrates the login page where users can authenticate to access the application.*
 
 #### **Course Generator Page**
