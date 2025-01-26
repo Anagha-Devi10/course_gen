@@ -77,11 +77,13 @@ We’ve built a smart AI-powered platform that generates complete course structu
 *This screenshot displays the course generator interface where users input details to generate personalized courses.*
 
 
-###Team Contributions
+## Team Contributions
 
-   Anjitha Anil: Frontend
-   Anagha Devi P: Gemini Integration
-   Made with ❤️ at TinkerHub
+- **Anjitha Anil**: Frontend
+- **Anagha Devi P**: Gemini Integration
+
+Made with ❤️ at TinkerHub
+
 
 
 
