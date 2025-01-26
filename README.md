@@ -76,7 +76,18 @@ We’ve built a smart AI-powered platform that generates complete course structu
 ![Course Generator Page](https://via.placeholder.com/600x300)  
 *This screenshot displays the course generator interface where users input details to generate personalized courses.*
 
----
+---Additional Demos
+[Add any extra demo materials/links]
+
+Team Contributions
+[Name 1]: [Specific contributions]
+[Name 2]: [Specific contributions]
+[Name 3]: [Specific contributions]
+Made with ❤️ at TinkerHub
+
+
+
+
 
 
 
