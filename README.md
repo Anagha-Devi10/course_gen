@@ -65,7 +65,7 @@ We’ve built a smart AI-powered platform that generates complete course structu
 ### Screenshots
 
 #### **Home Page**
-![Home Page](./src/home.png)  
+![Home Page](./home.png)  
 *This screenshot shows the main interface where users can navigate the platform.*
 
 #### **Login Page**
